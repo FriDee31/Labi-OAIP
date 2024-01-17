@@ -1,0 +1,11 @@
+﻿  LABA1.cpp
+C:\Users\user\Desktop\Labi-OAIP\LABA1\LABA1\LABA1.cpp(70,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\Desktop\Labi-OAIP\LABA1\LABA1\LABA1.cpp(71,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\Desktop\Labi-OAIP\LABA1\LABA1\LABA1.cpp(72,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\Desktop\Labi-OAIP\LABA1\LABA1\LABA1.cpp(73,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\Desktop\Labi-OAIP\LABA1\LABA1\LABA1.cpp(75,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\Desktop\Labi-OAIP\LABA1\LABA1\LABA1.cpp(76,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\Desktop\Labi-OAIP\LABA1\LABA1\LABA1.cpp(77,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\Desktop\Labi-OAIP\LABA1\LABA1\LABA1.cpp(78,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\Desktop\Labi-OAIP\LABA1\LABA1\LABA1.cpp(79,19): warning C4305: инициализация: усечение из "double" в "float"
+  LABA1.vcxproj -> C:\Users\user\Desktop\Labi-OAIP\LABA1\x64\Debug\LABA1.exe
